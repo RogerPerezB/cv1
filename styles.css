@@ -1,0 +1,22 @@
+body {
+ background-color: #e1f2fb;
+}
+ hr {
+   background-color:none;
+   border-style: none;
+   border-top: 7px dotted grey;
+   width: 35%;
+  }
+  h3{
+    color: #66bfbf;
+  }
+  h1{
+    color: #66bfbf;
+    font-family: cursive;
+  }
+  h2{
+    color: #66bfbf;
+  }
+img{
+  shape-outside: circle;
+}
